@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.py
+*.json
+*.xls
+*.xlsx
+*.csv
+*.spec
+*.log
